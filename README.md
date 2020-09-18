@@ -1,6 +1,10 @@
 ## LICENSE ##
 [MIT License](https://raw.githubusercontent.com/sudhirnakka/teams-ubuntu-enhanced/master/LICENSE)
 
+## No Longer In Development
+I am no longer working on the project. There is official microsoft supported application for linux OS and hence, would recommend users to depend on that.
+If anyone would like to experiment with electron and teams, please feel free to continue modifying the source code on your own.
+
 ### Usage:
 * You can download the artifacts from release page
     * Debian and direct electron packages are available for use
